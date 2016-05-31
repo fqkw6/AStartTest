@@ -1,0 +1,31 @@
+===========
+Unity generated
+===========
+AStartTest/Temp/
+AStartTest/Library/
+
+===========
+Visual Studio /MonoDevelop generated
+===========
+AStartTest/ExportedObj/
+AStartTest/obj/
+AStartTest/*.svd
+AStartTest/*.userprefs
+AStartTest//*.csproj
+AStartTest/*.pidb
+AStartTest/*.suo
+AStartTest//*.sln
+AStartTest/*.user
+AStartTest/*.unityproj
+AStartTest/*.booproj
+
+============
+OS generated
+============
+AStartTest/.DS_Store
+AStartTest/.DS_Store?
+AStartTest/._*
+AStartTest/.Spotlight-V100
+AStartTest/.Trashes
+AStartTest/ehthumbs.db
+AStartTest/Thumbs.db
